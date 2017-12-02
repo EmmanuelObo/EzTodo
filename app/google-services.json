@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "680333630801",
+    "firebase_url": "https://eztodo-bcb22.firebaseio.com",
+    "project_id": "eztodo-bcb22",
+    "storage_bucket": "eztodo-bcb22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680333630801:android:9960a2f8859d71c7",
+        "android_client_info": {
+          "package_name": "com.emmaobo.eztodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680333630801-lmu3jkdjhm4po3b6hc4gqdmrdu932vjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emmaobo.eztodo",
+            "certificate_hash": "946fb4b292f0fb1aa898a7d5f14fb7ca9998ee78"
+          }
+        },
+        {
+          "client_id": "680333630801-b0j9fdactpcnt5guq1fpoa41s9m174l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCAofBc5B05PGJzke4EoOPnKIk6oKf_xQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680333630801-b0j9fdactpcnt5guq1fpoa41s9m174l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

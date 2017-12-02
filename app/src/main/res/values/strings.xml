@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EzTodo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="add_button_text">Add</string>
+    <string name="new_button_text">New</string>
+    <string name="manage_button_text">Manage</string>
+</resources>
